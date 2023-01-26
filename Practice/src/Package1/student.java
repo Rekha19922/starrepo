@@ -2,10 +2,10 @@ package Package1;
 public class student{
 	int roll,age;
 	void display1() {
-		System.out.println("Roll no of the student");
+		System.out.println("Roll number of the present students");
 		}
 	void display2() {
-		System.out.println("Age of the student");
+		System.out.println("Age of the present students");
 	}
 	public static void main(String[]args) {
 		
